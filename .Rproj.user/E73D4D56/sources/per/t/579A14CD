@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592344083054.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1074098459",
+    "id" : "579A14CD",
+    "lastKnownWriteTime" : 1592588766,
+    "last_content_update" : 1592588766180,
+    "path" : "~/Desktop/autophagy/autophagy_iage.R",
+    "project_path" : "autophagy_iage.R",
+    "properties" : {
+        "cursorPosition" : "159,0",
+        "marks" : "<:107,0\n>:108,-1",
+        "scrollLine" : "138",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
